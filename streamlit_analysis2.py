@@ -9,6 +9,7 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 
+
 # title and subheader
 st.title("Data Analysis")
 st.subheader("Data Analysis Using Python and Streamlit")
